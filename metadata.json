@@ -1,0 +1,6 @@
+{
+  "name": "Riad Fine Art",
+  "description": "Exclusive luxury art gallery selling original fine art paintings and limited-edition prints to high-end collectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
